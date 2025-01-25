@@ -1,7 +1,7 @@
-## Hi there 👋
-<h1 align="left" style="color:red;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Є+питання?+👀;+Не+пиши+мені!;" />
+<h1 align="left" style="color:green; font-weight: bold;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Є+питання?+👀;+Не+пиши+мені!;" />
 </h1>
+
 <!--
 **Adretanoo/Adretanoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
