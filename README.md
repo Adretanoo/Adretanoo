@@ -33,5 +33,8 @@
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br />
 
+### 📊 Статистика
+
+![](https://github-readme-stats.vercel.app/api?username=adriantegzza&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 #
