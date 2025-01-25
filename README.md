@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OOOOO+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 <!--
 **Adretanoo/Adretanoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
