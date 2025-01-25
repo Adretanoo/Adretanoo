@@ -13,3 +13,7 @@
 <a href="https://github.com/your_username" target="_blank">
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
 </a>
+<a href="https://www.codewars.com/users/your_username" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=9B2D20&logoColor=white&style=for-the-badge" height="25" alt="codewars logo" />
+</a>
+
