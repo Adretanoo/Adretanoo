@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Є+питання?+👀;+Не+пиши+мені!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&weight=600&size=30&duration=4000&color=FFFFFFD7&background=FF00BE00&width=474&lines=Eat%2C+sleep%2C+code%2C+repeat!" />
 </h1>
 
 
