@@ -1,7 +1,4 @@
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&weight=600&size=30&duration=4000&color=FFFFFFD7&background=FF00BE00&width=474&lines=Eat%2C+sleep%2C+code%2C+repeat!" />
-</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=4000&pause=1000&color=FFFFFFD7&background=FF00BE00&width=474&lines=Eat%2C+sleep%2C+code%2C+repeat!" alt="Typing SVG" /></a>
 
 
 <!--
