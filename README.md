@@ -4,16 +4,16 @@
 
 Я Java Junior Developer, який будує програмне забезпечення з нуля, орієнтуючись на створення рішень реальних проблем. Кожен проєкт я підходжу комплексно — від планування та дизайну до кодування та тестування, щоб забезпечити надійні й ефективні додатки. Мої проєкти варіюються від малих додатків до більших систем, і я постійно вивчаю нові підходи та технології через практичний досвід у Java розробці.
 
-<a href="adriantegzza@gmail.com" target="_blank">
+<a href="mailto:adriantegzza@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=FF5733&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
 </a>
 <a href="https://t.me/Adrian_085" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
 </a>
-<a href="https://github.com/your_username" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
+<a href="https://github.com/your_username?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GitHub+Repositories&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github repositories logo" />
 </a>
-<a href="https://www.codewars.com/users/your_username" target="_blank">
+<a href="https://www.codewars.com/users/Adretanoo" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=9B2D20&logoColor=white&style=for-the-badge" height="25" alt="codewars logo" />
 </a>
 
