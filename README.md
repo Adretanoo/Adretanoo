@@ -1,6 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&background=FF00BE00&vCenter=true&width=475&lines=%E2%9B%84%EF%B8%8F+Adrian+Tegza" alt="Typing SVG" /></a>
 
-**`Software engineer (Java Developer)`**
+**`Software engineer`**
 
 <a href="mailto:adriantegzza@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=FF5733&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
