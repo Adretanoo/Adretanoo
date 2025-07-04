@@ -2,8 +2,6 @@
 
 **`Software engineer (Java Developer)`**
 
-Я Java Junior Developer, який будує програмне забезпечення з нуля, орієнтуючись на створення рішень реальних проблем. Кожен проєкт я підходжу комплексно — від планування та дизайну до кодування та тестування, щоб забезпечити надійні й ефективні додатки. Мої проєкти варіюються від малих додатків до більших систем, і я постійно вивчаю нові підходи та технології через практичний досвід у Java розробці.
-
 <a href="mailto:adriantegzza@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=FF5733&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
 </a>
